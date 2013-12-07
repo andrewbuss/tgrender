@@ -1,0 +1,1 @@
+tgrender is a horrendously insecure server to render colorful pointclouds thrown at it by a tgcompute client. It sends back scenic vistas or, optionally, noisy and corrupted images. 
